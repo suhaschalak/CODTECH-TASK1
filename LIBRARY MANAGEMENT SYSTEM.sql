@@ -1,6 +1,6 @@
 -- create library database
-CREATE DATABASE library;
-USE library;
+CREATE DATABASE library_management_system;
+USE library_management_system;
 
 -- create books table
 CREATE TABLE books (
