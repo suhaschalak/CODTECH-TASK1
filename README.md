@@ -2,7 +2,7 @@ NAME:SUHAS CHALAK
 COMPANY:CODTECH IT SOLUTIONS  
 ID:CT08DS1599  
 DOMAIN:SQL  
-DURATION:JUNE TO JULY 2024
+DURATION:JUNE TO JULY 2024  
 MENTOR:SARVANI GOUNI
 
 #### Project Name:
@@ -59,9 +59,13 @@ The objective of the Library Management System is to develop a database to manag
   
 #### OUTPUTS:
 ![image](https://github.com/suhaschalak/CODTECH-TASK1/assets/154907835/418688cc-039b-4a50-af0b-fbf79e9ad0bf)
+
 ![image](https://github.com/suhaschalak/CODTECH-TASK1/assets/154907835/ef2ba322-026c-4541-a41a-2051706aff61)
+
 ![image](https://github.com/suhaschalak/CODTECH-TASK1/assets/154907835/44368734-cf9b-4a83-99d9-47487d49b5fe)
+
 ![image](https://github.com/suhaschalak/CODTECH-TASK1/assets/154907835/3ac92ea8-0d96-45a8-a429-8c8ade8a88da)
+
 
 #### ERDIAGRAM:
 ![image](https://github.com/suhaschalak/CODTECH-TASK1/assets/154907835/45ae7b6b-9b64-4dc4-bfba-9162544414ff)
