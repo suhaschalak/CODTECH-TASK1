@@ -67,7 +67,4 @@ The objective of the Library Management System is to develop a database to manag
 ![image](https://github.com/suhaschalak/CODTECH-TASK1/assets/154907835/3ac92ea8-0d96-45a8-a429-8c8ade8a88da)
 
 
-#### ERDIAGRAM:
-![image](https://github.com/suhaschalak/CODTECH-TASK1/assets/154907835/45ae7b6b-9b64-4dc4-bfba-9162544414ff)
-
 
